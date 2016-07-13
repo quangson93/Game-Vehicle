@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CslFunc" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAgAAAAAAAAAAAAAEAAAAAACAAAAE=</HashCode>
+      <FileName>CslFunc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGame" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQgAAAJBIAAgCAAAgAYQCCAEAUQAAAAAACAAAIAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAALAQBCARAASQgAAEAFAAqAAQAAQiAAAEBCEAAAAA=</HashCode>
+      <FileName>Sharps.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ColorType">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAwTgAAIAAkAAABEAAAAAAAQAAABABAAZAYAAAAACAA=</HashCode>
+      <FileName>CslFunc.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
